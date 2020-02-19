@@ -5,3 +5,4 @@ Cambio 4
 
 # Esta es la versión 
 1.1
+1.2
